@@ -18,11 +18,7 @@ __pycache__/
 *$py.class
 
 # OkPy related files
-.ok_history
-.ok_storage
-.ok_storage.db
-*.ok_messages
-*.ok_refresh
+*.ok_*
 
 # Test and coverage
 .pytest_cache/
