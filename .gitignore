@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# git
+.git
+
+# virtual environment
+bin/
+etc/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OkPy related files
+.ok_history
+.ok_storage
+.ok_storage.db
+*.ok_messages
+*.ok_refresh
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
